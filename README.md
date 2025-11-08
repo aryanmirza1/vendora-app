@@ -65,7 +65,3 @@ The design focuses on accessibility, intuitive navigation, and brand consistency
 - Manage Sellers / Products / Users / Admins  
 - Approve / Delete product listings  
 - Sales analytics and logs  
-
-\
-
-
