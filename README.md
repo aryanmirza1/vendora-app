@@ -11,7 +11,8 @@
 ---
 
 ## 🎨 Figma Design
-View full prototype here:  
+
+View the full design prototype here:  
 👉 [Vendora UI on Figma](https://www.figma.com/design/BwB2cSf0LhHEKbDJw5LDVQ/Vendora?node-id=2595-2409)
 
 ---
@@ -39,7 +40,7 @@ The design focuses on accessibility, intuitive navigation, and brand consistency
 
 ### 🟢 Common Screens
 - Splash Screen  
-- Onboarding Screens (x2)  
+- Onboarding (2 screens)  
 - Role Selection (Buyer / Seller / Admin)  
 - Login / Signup  
 - Forgot Password / Reset Password  
@@ -47,46 +48,24 @@ The design focuses on accessibility, intuitive navigation, and brand consistency
 ### 🧍‍♂️ Buyer (User) View
 - Home – Product feed with categories & search  
 - Product Details – Images, description, reviews  
-- Cart & Checkout – Payment and order summary  
+- Cart & Checkout – Order summary and payment  
 - Profile – Manage info & preferences  
-- Settings – Theme mode (Dark/Light), accessibility options  
+- Settings – Dark mode, accessibility options  
 - Help Center / Report Problem / Contact Us  
 
 ### 🏪 Seller View
-- Dashboard – Overview of sales & products  
+- Dashboard – Overview of sales & inventory  
 - Add / View / Edit Products  
-- Orders – Track orders in real time  
-- Notifications – Order and system alerts  
-- Stats – Visual graphs and sales analytics  
+- Orders – Real-time tracking  
+- Notifications – Order updates  
+- Stats – Sales analytics and graphs  
 
 ### 🧑‍💼 Admin View
 - Dashboard – System overview  
 - Manage Sellers / Products / Users / Admins  
-- Approve or delete product listings  
-- Sales Analytics and Activity Logs  
+- Approve / Delete product listings  
+- Sales analytics and logs  
 
----
+\
 
-## 🖼️ UI Preview
 
-### Common & Buyer Screens
-![Common Pages](assets/screens/common_pages.png)
-![User View](assets/screens/user_view.png)
-
-### Seller Screens
-![Seller Dashboard](assets/screens/seller_dashboard.png)
-![Seller Stats](assets/screens/seller_stats.png)
-
-### Admin Screens
-![Admin Dashboard](assets/screens/admin_dashboard.png)
-
-*(Add screenshots from Figma or app build once available)*
-
----
-
-## ⚙️ Installation
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/<your-username>/vendora-app.git
-cd vendora-app
