@@ -13,7 +13,7 @@
 ## 🎨 Figma Design
 
 View the full design prototype here:  
-👉 [Vendora UI on Figma](https://www.figma.com/design/BwB2cSf0LhHEKbDJw5LDVQ/Vendora?node-id=2595-2409)
+👉 [Vendora UI on Figma](https://www.figma.com/design/BwB2cSf0LhHEKbDJw5LDVQ/Vendora?node-id=404-323&t=aftFoegHASzWUTlq-1)
 
 ---
 
