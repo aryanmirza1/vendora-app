@@ -1,5 +1,7 @@
 # 🛍️ Vendora – Multi-Vendor E-Commerce Mobile App
 
+![Alt text](assets/image.png)
+
 > A complete multi-vendor e-commerce solution built with **Flutter** and **Dart**, offering dedicated experiences for **buyers**, **sellers**, and **admins** — powered by Firebase backend and a sleek modern UI.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
